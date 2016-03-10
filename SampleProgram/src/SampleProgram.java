@@ -21,7 +21,7 @@ public class SampleProgram {
     //to match your computer's speed...
     public static void delay(){
         for (int k = 0; k < 1000; k++)
-        	System.out.println("k=" + k ); //this is the empty statement which is covered later
+        	; //this is the empty statement which is covered later
     }
 
 }
